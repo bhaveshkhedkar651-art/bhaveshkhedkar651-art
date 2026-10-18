@@ -28,3 +28,10 @@
 </a>
 
 </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg">
+    <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg">
+  </picture>
+</div>
