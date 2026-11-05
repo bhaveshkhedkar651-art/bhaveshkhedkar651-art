@@ -16,8 +16,9 @@
 <br/><br/>
 
 <!-- 3. Snake -->
+<!-- 3. Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=3" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=5" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=5" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=5" />
 </picture>
