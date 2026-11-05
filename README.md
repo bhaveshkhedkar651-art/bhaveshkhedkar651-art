@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<!-- 4. Tech Stack (Java, Python, C++, C#, SQL added) -->
+<!-- 4. Tech Stack -->
 <h3>🛠️ Tech Stack</h3>
 <img src="https://img.shields.io/badge/PHP-0A101F?style=for-the-badge&logo=php&logoColor=A78BFA&labelColor=0A101F" alt="PHP" />
 &nbsp;
