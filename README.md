@@ -1,8 +1,8 @@
 <!-- 1. Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=3">
-  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=5">
+  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=5" width="100%">
 </picture>
 
 <br/><br/>
