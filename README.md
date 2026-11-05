@@ -2,9 +2,9 @@
 
 <!-- 1. Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=10">
-  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=10" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=20">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=20">
+  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=20" width="100%">
 </picture>
 
 <br/><br/>
@@ -19,9 +19,9 @@
 
 <!-- 3. Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=10" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=10" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=20" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=20" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=20" />
 </picture>
 
 <br/><br/>
