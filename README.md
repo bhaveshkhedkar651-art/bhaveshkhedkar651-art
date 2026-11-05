@@ -1,8 +1,10 @@
+<div align="center">
+
 <!-- 1. Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=5">
-  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/light.svg?v=10">
+  <img alt="Bhavesh Khedkar" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/main/dark.svg?v=10" width="100%">
 </picture>
 
 <br/><br/>
@@ -16,9 +18,48 @@
 <br/><br/>
 
 <!-- 3. Snake -->
-<!-- 3. Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=5" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=5" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake-dark.svg?v=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=10" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/bhaveshkhedkar651-art/bhaveshkhedkar651-art/output/github-snake.svg?v=10" />
 </picture>
+
+<br/><br/>
+
+<!-- 4. Tech Stack -->
+<h3>🛠️ Tech Stack</h3>
+<img src="https://img.shields.io/badge/PHP-0A101F?style=for-the-badge&logo=php&logoColor=A78BFA&labelColor=0A101F" alt="PHP" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=10B981&labelColor=0A101F" alt="HTML5" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=22D3EE&labelColor=0A101F" alt="CSS3" />
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=A78BFA&labelColor=0A101F" alt="JavaScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=A78BFA&labelColor=0A101F" alt="Java" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&labelColor=0A101F" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/C++-0A101F?style=for-the-badge&logo=cplusplus&logoColor=10B981&labelColor=0A101F" alt="C++" />
+&nbsp;
+<img src="https://img.shields.io/badge/C%23-0A101F?style=for-the-badge&logo=c-sharp&logoColor=A78BFA&labelColor=0A101F" alt="C#" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-0A101F?style=for-the-badge&logo=mysql&logoColor=22D3EE&labelColor=0A101F" alt="SQL" />
+
+<br/><br/>
+
+<!-- 5. Social Badges -->
+<h3>📫 Connect With Me</h3>
+<a href="https://www.linkedin.com/in/bhavesh-khedkar-705a4b430/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhaveshkhedkar1605/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bhaveshkhedkar651@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
